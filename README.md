@@ -6,5 +6,6 @@ Suppose your company's name is JMS, you can change any name as you like.
 Put this .bat file into your D drive. Otherwise you'll need to change the path.
 When you first open up the batch file, a directory with your company's name will be created automatically, with 4 departments' folders - IT, HR, etc. (you can create more by yourself).
 Then create a user's profile by inputting relative info (name, age, department), a text file will be created saved in the relative direcotory of his/her department.
+It is on sale now for just 5 dollars!!!
 
 
